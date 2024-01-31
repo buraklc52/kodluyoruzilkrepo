@@ -10,8 +10,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 git clone https://github.com/buraklc52/kodluyoruzilkrepo.git
 ```
 # Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-#### Linux için :
+<p Projeyi cloneladıktan sonra Visual Studio Code programında açınız.></p>
+ Linux için :
 
 ```
 cd kodluyoruzilkrepo
